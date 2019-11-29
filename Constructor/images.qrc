@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>background.png</file>
+    </qresource>
+    <qresource prefix="/llama">
+        <file>animatedpreview.cpp</file>
+        <file>sprite_0.png</file>
+        <file>sprite_1.png</file>
+        <file>sprite_2.png</file>
+        <file>sprite_3.png</file>
+        <file>sprite_4.png</file>
+        <file>sprite_5.png</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>SaveIcon.jpeg</file>
+        <file>animatedpreview.cpp</file>
+        <file>Eraser.png</file>
+        <file>FillBucket.jpg</file>
+        <file>PaintBrush.png</file>
+    </qresource>
+</RCC>
